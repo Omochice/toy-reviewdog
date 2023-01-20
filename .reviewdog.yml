@@ -1,0 +1,4 @@
+runner:
+  cmd: pnpm stylelint **/*.{css,scss,sass,vue}
+  format: stylelint
+  level: warning
